@@ -1,0 +1,28 @@
+h1
+{
+color:hotpink;	
+text-align: center;
+size: 10px;
+font-family: Arial, Helvetica, sans-serif;
+margin-left: 80px;
+}
+.header{
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    top: 0;
+    left: 0;
+    right: 0;
+    position: fixed;
+}
+.sidebars{
+    width: 15px;
+    height: 15px;
+    margin-right: 10px;
+    
+}
+.rightside-icons{
+    margin-right: 80px;
+}
